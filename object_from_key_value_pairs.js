@@ -8,6 +8,7 @@ const keyValuePairsArr = [
 
 console.log(keyValuePairsArr);
 
+//object from key pairs array
 const obj = Object.fromEntries(keyValuePairsArr);
 
 console.log(obj);
