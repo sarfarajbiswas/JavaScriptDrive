@@ -11,9 +11,11 @@ function showName(){
         let phone = "8017665566";
 
         console.log("phone : " + phone);
-    }
-    console.log("phone : " + phone);
 
+        //template literals
+        console.log(` Name: ${name}, Address: ${address}, Phone : ${phone}`);
+    }
+    // console.log("phone : " + phone);
 }
 
 showName();
