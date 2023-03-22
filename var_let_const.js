@@ -18,6 +18,12 @@ function showName(){
     // console.log("phone : " + phone);
 }
 
+function calc(a, b=10){
+    console.log(`Calculation: ${a+b}`);
+}
+
 showName();
+
+calc(40);
 
 // console.log("name : " + name);
