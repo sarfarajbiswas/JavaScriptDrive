@@ -12,4 +12,5 @@ console.log(`Year 2000 is leap year: ${checkLeapYear(2000)}`);
 console.log(`Year 2004 is leap year: ${checkLeapYear(2004)}`);
 console.log(`Year 2006 is leap year: ${checkLeapYear(2006)}`);
 console.log(`Year 2012 is leap year: ${checkLeapYear(2012)}`);
-console.log(`Year 2020 is leap year: ${checkLeapYear(2020)}`);
+console.log(`Year 2020 is leap year: ${checkLeapYear(2020)}`); 
+console.log(`Year 2200 is leap year: ${checkLeapYear(2200)}`); 
